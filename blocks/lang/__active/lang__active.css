@@ -1,5 +1,6 @@
 .lang__active {
   text-decoration: underline;
+  cursor: unset;
 }
 .lang__active:hover {
   opacity: 1;
