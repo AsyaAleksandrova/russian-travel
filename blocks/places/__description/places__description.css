@@ -1,0 +1,28 @@
+.places__description {
+  margin: 0 16px;
+  font-size: 16px;
+  line-height: 1.63;
+  margin-bottom: 25px;
+}
+.places__description:last-of-type {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .places__description {
+    margin: 0;
+    margin-bottom: 25px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .places__description {
+    font-size: 18px;
+    margin-bottom: 26px;
+  }
+}
+@media screen and (min-width: 1680px) {
+  .places__description {
+    font-size: 24px;
+    margin-bottom: 26px;
+  }
+}

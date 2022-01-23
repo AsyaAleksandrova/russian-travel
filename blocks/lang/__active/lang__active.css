@@ -1,0 +1,6 @@
+.lang__active {
+  text-decoration: underline;
+}
+.lang__active:hover {
+  opacity: 1;
+}

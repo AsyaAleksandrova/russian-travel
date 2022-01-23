@@ -1,0 +1,25 @@
+.lang__choice {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 1.11;
+  -webkit-transition: opacity 0.5s ease;
+  -o-transition: opacity 0.5s ease;
+  transition: opacity 0.5s ease;
+}
+
+.lang__choice:hover {
+  opacity: 0.6;
+}
+
+@media screen and (min-width: 768px) {
+  .lang__choice {
+    font-size: 24px;
+    line-height: 1.17;
+  }
+}
+@media screen and (min-width: 1680px) {
+  .lang__choice {
+    font-size: 30px;
+  }
+}
