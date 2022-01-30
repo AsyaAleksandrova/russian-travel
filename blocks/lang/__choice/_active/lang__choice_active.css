@@ -1,7 +1,7 @@
-.lang__active {
+.lang__choice_active {
   text-decoration: underline;
   cursor: unset;
 }
-.lang__active:hover {
+.lang__choice_active:hover {
   opacity: 1;
 }
