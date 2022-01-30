@@ -19,8 +19,3 @@
     line-height: 1.17;
   }
 }
-@media screen and (min-width: 1680px) {
-  .lang__choice {
-    font-size: 30px;
-  }
-}

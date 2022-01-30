@@ -11,9 +11,3 @@
     height: 52px;
   }
 }
-@media screen and (min-width: 1680px) {
-  .header__logo {
-    width: 237px;
-    height: 70px;
-  }
-}
